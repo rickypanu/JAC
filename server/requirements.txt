@@ -1,0 +1,1 @@
+langchain langchain-community langchain-google-genai pypdf chromadb fastapi uvicorn pydantic python-dotenv
